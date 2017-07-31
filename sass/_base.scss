@@ -60,11 +60,6 @@
     }
 }
 
-.three {
-    @include parrafo();
-    padding: 5px;
-}
-
 footer {
     background-color: $fondo;
     @include parrafo();
